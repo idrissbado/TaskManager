@@ -2,6 +2,9 @@
 
 A powerful and feature-rich To-Do List application built with React that allows users to manage their tasks efficiently with beautiful statistics and visualizations.
 
+![image](https://github.com/user-attachments/assets/51a51937-38d7-43d1-8718-f475a6edc076)
+
+
 ## Features
 
 - Add new tasks with name, description, category, due date, and priority
